@@ -1,0 +1,14 @@
+.header {
+  height: 100px;
+  width: 100%;
+  background-image: url(https://blog.entheosweb.com/wp-content/uploads/2012/01/blue_header_s.jpg);
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  color: rgb(125, 9, 13);
+  font-family: sans-serif;
+  font-size: 30px;
+  position: fixed;
+}
