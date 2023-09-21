@@ -1,4 +1,4 @@
-.header {
+.footer {
   height: 100px;
   width: 100%;
   background-image: url(https://blog.entheosweb.com/wp-content/uploads/2012/01/blue_header_s.jpg);
@@ -7,14 +7,10 @@
   justify-content: center;
   text-align: center;
   align-items: center;
-  color: rgb(195, 128, 14);
+  color: rgb(125, 9, 13);
   font-family: sans-serif;
-  font-size: 50px;
-}
-.image {
-  height: 80px;
-  width: 80px;
-  border: 1 solid brown;
-  border-radius: 50px;
-  margin-left: 20px;
+  font-size: 30px;
+  position: fixed;
+  bottom: 0;
+  background-color: yellow;
 }
